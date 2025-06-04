@@ -42,6 +42,10 @@ Congratulations to the winners!
 
 ---
 
+### Results overview
+
+For helping those who wants to directly have an overview of the final results, the results of AIG are merged and saved as a csv file which is directly rendering as a table [here](./submissions/aig_merged.csv).
+
 
 
 
